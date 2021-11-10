@@ -1,1 +1,1 @@
-# BSU
+# BSU labs
