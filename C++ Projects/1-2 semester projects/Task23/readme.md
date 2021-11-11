@@ -1,3 +1,3 @@
-#Here you can find a game "2048"
+# Here you can find a "2048" realization
 
-#It's made using Qt
+# It's made using Qt

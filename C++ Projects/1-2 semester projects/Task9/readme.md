@@ -1,5 +1,5 @@
-#Class for numbers, that can't be stored by integrated types
+# Class for numbers, that can't be stored by integrated types
 
-#The class is parametrized
+# The class is parametrized
 
-#All needed operators are overloaded
+# All needed operators are overloaded
